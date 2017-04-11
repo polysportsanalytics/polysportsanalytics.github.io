@@ -7,7 +7,7 @@ gems:
 permalink:           pretty
 
 # Setup
-url:                 http://polysportsanalytics.com
+url:                 http://polysportsanalytics.github.io
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
