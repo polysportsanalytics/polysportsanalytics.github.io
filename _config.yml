@@ -11,7 +11,7 @@ url:                 http://polysportsanalytics.github.io
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             /fpsa
+baseurl:             ''
 
 title:               Florida Poly Sports Analytics
 
