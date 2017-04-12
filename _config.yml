@@ -20,11 +20,7 @@ paginate:            5
 paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
-description:         >
-Poly Sports Analytics is a student-run organization
- at Florida Poly dedicated to the quantitative analysis of
- sports strategy and management. Founded in 2017, the club meets
-  weekly and is for students interested in sports statistics, sports business, and problem solving.
+
 # The tags listed as entries in the sidebar
 sidebar_tags:        [Blog]
 
@@ -38,7 +34,7 @@ font_accent:         '"Roboto Slab", "PT Serif", Georgia, serif'
 load_google_fonts:   'Roboto+Slab:700|PT+Serif:400,400italic,700,700italic'
 
 # About yourself
-author:              'polysportsanalytics'
+author:
   name:              'polysportsanalytics'
 
   # This photo will be used in the about section
@@ -47,10 +43,9 @@ author:              'polysportsanalytics'
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-Poly Sports Analytics is a student-run organization
- at Florida Poly dedicated to the quantitative analysis of
- sports strategy and management. Founded in 2017, the club meets
-  weekly and is for students interested in sports statistics, sports business, and problem solving.
+   Poly Sports Analytics is a student-run organization at Florida Poly dedicated to the quantitative analysis of
+   sports strategy and management. Founded in 2017, the club meets weekly and is for students interested in sports
+   statistics, sports business, and problem solving.
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
