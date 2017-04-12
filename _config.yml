@@ -20,6 +20,11 @@ paginate:            5
 paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
+description:         >
+  Poly Sports Analytics is a student-run organization
+  at Florida Poly dedicated to the quantitative analysis of
+  sports strategy and management. Founded in 2017, the club meets
+  weekly and is for students interested in sports statistics, sports business, and problem solving.
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        [Blog]
