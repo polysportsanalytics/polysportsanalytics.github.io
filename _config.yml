@@ -11,9 +11,10 @@ url:                 http://qwtel.com
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             'https://polysportsanalytics.github.io/'
+baseurl:             /Baseball-Blog
 
-title:               Florida Poly Sports Analytics
+title:              >
+  Florida Poly Sports Analytics
 
 # Pagination
 paginate:            5
@@ -27,10 +28,10 @@ description:         >
   weekly and is for students interested in sports statistics, sports business, and problem solving.
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        [Blog]
+sidebar_tags:        [jekyll, hyde]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /hydejack/public/img/nap.jpg
+image:               /Baseball-Blog/public/img/nap.jpg
 color:               '#A85641'
 
 # Fonts
