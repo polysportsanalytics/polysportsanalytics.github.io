@@ -11,7 +11,7 @@ url:                 http://qwtel.com
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             /hydejack
+baseurl:             'https://polysportsanalytics.github.io/'
 
 title:               Florida Poly Sports Analytics
 
