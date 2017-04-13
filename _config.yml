@@ -11,7 +11,7 @@ url:                 http://qwtel.com
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             /Baseball-Blog
+baseurl:             'https://polysportsanalytics.github.io/'
 
 title:              >
   Florida Poly Sports Analytics
@@ -31,7 +31,7 @@ description:         >
 sidebar_tags:        [jekyll, hyde]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /Baseball-Blog/public/img/nap.jpg
+image:               https://polysportsanalytics.github.io/public/img/nap.jpg
 color:               '#A85641'
 
 # Fonts
