@@ -28,7 +28,7 @@ description:         >
   weekly and is for students interested in sports statistics, sports business, and problem solving.
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        [jekyll, hyde]
+sidebar_tags:        [Baseball]
 
 # Fallback image and color if not overwritten for tag or post
 image:               /polysportsanalytics.github.io/public/img/BallLogoSidebar.png
