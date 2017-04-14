@@ -31,8 +31,8 @@ description:         >
 sidebar_tags:        [jekyll, hyde]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /polysportsanalytics.github.io/public/img/nap.jpg
-color:               '#A85641'
+image:               /polysportsanalytics.github.io/public/img/BallLogoSidebar.png
+color:               '#434143'
 
 # Fonts
 font:                '"PT Serif", Georgia, serif'
