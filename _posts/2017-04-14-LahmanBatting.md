@@ -266,7 +266,7 @@ ggplot(Teams_Modern, aes(yearID, AVG)) + geom_point() +
          theme(legend.position =  "none")
 ```
 
-![](LahmanBatting_files/figure-markdown_github/unnamed-chunk-15-1.png)
+![](/polysportsanalytics.github.io/public/img/unnamed-chunk-15-1.png)
 
 From this plot we can get a general sense of the change in team batting averages over time, but there are still many ways that we can modify the plots to give us more insight into what is happening.
 
